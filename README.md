@@ -2,7 +2,7 @@
 
 Вёрстка блока карточки товара интернет-магазина Teaboom.ru («Ананасовый улун») на чистых HTML, CSS и JavaScript.
 
-**Демо:** [ССЫЛКА-НА-GITHUB-PAGES](https://murad-proger.github.io/teaboom-product)
+**Демо:** [ССЫЛКА-НА-GITHUB-PAGES](https://murad-proger.github.io/teaboom-product/)
 
 ## Что внутри
 
